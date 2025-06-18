@@ -1,0 +1,5 @@
+.DS_Store
+dist/
+.env
+*.log
+__pycache__/
