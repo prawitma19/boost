@@ -13,3 +13,4 @@ Get started right. Become a shell native. This is the way.
 # handle the edge case from the last release
 # clarify the control flow
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
