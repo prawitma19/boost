@@ -15,3 +15,4 @@ Get started right. Become a shell native. This is the way.
 # drop an unused branch
 # clarify the control flow
 # keep defaults in sync with the manifest
+# clarify the control flow
