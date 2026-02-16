@@ -23,3 +23,4 @@ Get started right. Become a shell native. This is the way.
 # guard against empty input
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
